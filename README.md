@@ -13,7 +13,7 @@ For comprehensive guidance on Flutter development, refer to the [online document
 
 ## Screenshots
 
-<div align="center">
+<div align="left">
     <img src="https://github.com/Drishtantranjan/Google-translate-Speech-to-text./assets/84273332/fee1932b-11f6-4ce3-a4af-1c6754d743a9" width="200" alt="Screenshot 1">
     <img src="https://github.com/Drishtantranjan/Google-translate-Speech-to-text./assets/84273332/9cc09a25-e736-4bf8-9fa0-7b7adeb87400" width="200" alt="Screenshot 2">
     <img src="https://github.com/Drishtantranjan/Google-translate-Speech-to-text./assets/84273332/b88d234a-ad9d-4297-bf63-31178a204419" width="200" alt="Screenshot 3">
