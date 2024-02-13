@@ -23,8 +23,11 @@ flutter pub get
 Run the Application
 ```bash
 flutter run
-
 ```
+This will launch the application on your connected emulator or physical device. Make sure your emulator or device is properly set up and running.
+
+Now, you should see the application running with the provided features and dummy content.
+
 ## Screenshots
 
 <div align="left">
