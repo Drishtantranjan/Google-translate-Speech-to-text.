@@ -1,6 +1,6 @@
 # Google Translate and Speech to Text 
 
-A new Flutter project.
+In this project, I have implemented a mobile application showcasing the principles of clean architecture using the Flutter framework. The application serves as a demonstration, featuring a dummy newsletter app where users can explore terms and conditions. To enhance user experience, I integrated Google Translate for language translation and utilized Speech to Text functionalities for convenient input methods. This combination of clean architecture, Flutter, Google Translate, and Speech to Text illustrates a scalable and maintainable structure for building robust mobile applications with seamless multilingual support and user interaction.
 
 ## Getting Started
 
