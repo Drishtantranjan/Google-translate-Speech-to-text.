@@ -4,12 +4,16 @@ This Flutter project exemplifies the principles of clean architecture, demonstra
 
 ## Getting Started
 
-This project serves as a starting point for a Flutter application. If this is your first Flutter project, the following resources may be helpful:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Ensure that you have Flutter and Dart SDK installed on your machine. If not, you can follow the [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
+- Make sure you have a compatible IDE installed, such as Visual Studio Code or Android Studio.
 
-For comprehensive guidance on Flutter development, refer to the [online documentation](https://docs.flutter.dev/), which provides tutorials, samples, and a full API reference.
+### Clone the Repository
+
+```bash
+git clone https://github.com/Drishtantranjan/Google-translate-Speech-to-text.git
+cd Google-translate-Speech-to-text
 
 ## Screenshots
 
