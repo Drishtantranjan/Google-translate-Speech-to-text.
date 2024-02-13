@@ -15,7 +15,16 @@ This Flutter project exemplifies the principles of clean architecture, demonstra
 git clone https://github.com/Drishtantranjan/Google-translate-Speech-to-text.git
 cd Google-translate-Speech-to-text
 ```
+Install Dependencies
+```bash
+flutter pub get
 
+```
+Run the Application
+```bash
+flutter run
+
+```
 ## Screenshots
 
 <div align="left">
